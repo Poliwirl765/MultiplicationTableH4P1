@@ -1,6 +1,7 @@
 /*
 File: script.js
     Patryk Piwowarczyk, patryk_piwowarczyk@student.uml.edu
+    Completed on 11/29/2022
     Sources include those in the index.html but especially
     1. https://cdnjs.com/libraries/jquery-validate
     2. https://www.geeksforgeeks.org/form-validation-using-jquery/
